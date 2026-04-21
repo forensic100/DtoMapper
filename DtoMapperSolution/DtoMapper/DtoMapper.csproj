@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+<TargetFramework>net10.0</TargetFramework>
+
+  <PackageId>DtoMapper</PackageId>
+  <Authors>John Howard</Authors>
+  <Company>Northbridge Insurance(NBFC)</Company>
+  
+      <!-- Version properties -->  
+    <Version>2.1.1</Version>                  <!-- Sets AssemblyVersion and default FileVersion -->  
+    <FileVersion>2.1.0.1</FileVersion>        <!-- Overrides AssemblyFileVersion -->  
+    <InformationalVersion>2.1.0-1</InformationalVersion> <!-- Overrides AssemblyInformationalVersion -->
+  <Description>Map your dto to entity and entity to dto</Description>
+  <PackageTags>Former automapper user and long time fan</PackageTags>
+
+<!--  <RepositoryUrl>https://github.com/yourorg/MyAwesomeLibrary</RepositoryUrl>
+  <RepositoryType>git</RepositoryType>-->
+
+  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+</PropertyGroup>
+</Project>

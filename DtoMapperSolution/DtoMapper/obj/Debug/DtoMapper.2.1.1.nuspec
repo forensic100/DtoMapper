@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DtoMapper</id>
+    <version>2.1.1</version>
+    <authors>John Howard</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Map your dto to entity and entity to dto</description>
+    <tags>Former automapper user and long time fan</tags>
+    <repository type="git" commit="04399107d81db1274c6b892f8079feb5f2c0412d" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\NBFC_GIT\DtoMapperSolution\DtoMapper\bin\Debug\net10.0\DtoMapper.dll" target="lib\net10.0\DtoMapper.dll" />
+  </files>
+</package>

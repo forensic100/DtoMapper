@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DtoMapper/1.0.0": {
+        "runtime": {
+          "DtoMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DtoMapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

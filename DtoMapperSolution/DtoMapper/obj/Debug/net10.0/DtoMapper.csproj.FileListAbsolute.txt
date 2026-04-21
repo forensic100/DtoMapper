@@ -1,0 +1,12 @@
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\bin\Debug\net10.0\DtoMapper.deps.json
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\bin\Debug\net10.0\DtoMapper.dll
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\bin\Debug\net10.0\DtoMapper.pdb
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.AssemblyInfoInputs.cache
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.AssemblyInfo.cs
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.csproj.CoreCompileInputs.cache
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.sourcelink.json
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.dll
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\refint\DtoMapper.dll
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\DtoMapper.pdb
+C:\NBFC_GIT\DtoMapperSolution\DtoMapper\obj\Debug\net10.0\ref\DtoMapper.dll
