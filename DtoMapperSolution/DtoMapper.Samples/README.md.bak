@@ -1,0 +1,11 @@
+
+# DtoMapper Samples
+
+This archive contains example projects demonstrating DtoMapper usage in:
+
+- Console
+- ASP.NET Core Web API
+- WinForms
+- Blazor WebAssembly
+
+Each project shows explicit, predictable mapping configuration.
